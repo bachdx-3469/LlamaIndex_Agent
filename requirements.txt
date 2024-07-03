@@ -1,0 +1,14 @@
+# Main
+llama-index
+llama-index-embeddings-azure-openai
+llama-index-llms-azure-openai
+langfuse
+# Reader/ Parser
+llama-index-readers-file
+llmsherpa
+# Others
+tqdm
+typer
+pydantic
+pydantic-settings
+python-dotenv
