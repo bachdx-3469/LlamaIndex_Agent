@@ -1,0 +1,18 @@
+Decompose the Passage into clear and simple propositions.
+1. Split compound sentence into simple sentences. Maintain the original phrasing from the input whenever possible.
+2. For any named entity that is accompanied by additional descriptive information, separate this information into its own distinct proposition.
+3. Decontextualize the proposition by adding necessary modifier to nouns or entire sentences and replacing pronouns (e.g., "it", "he", "she", "they", "this", "that") with the full name of the entities they refer to.
+4. Present the results as a list of strings, formatted in JSON.
+
+Example:
+Passage:
+Employees are allowed to take Company equipment off Company premises in certain circumstances and with proper authorization. Generally, they are permitted to take Company equipment off-site when it is necessary to perform their job duties or fulfill work-related responsibilities. This may include situations where employees need to attend client meetings, conferences, or other business-related events outside of the office. In such cases, employees are expected to use the Company equipment responsibly and ensure its safekeeping. Prior approval from the relevant supervisor or department head is typically required before taking any Company equipment off-site. Additionally, they may be required to sign an agreement or adhere to specific guidelines regarding the use and protection of the equipment while off-premises.
+Output:
+[
+"Employees are allowed to take Company equipment off Company premises in certain circumstances and with proper authorization",
+"When taking Company equipment off Company premises, employees are permitted to take Company equipment off-site when it is necessary to perform employees job duties or fulfill work-related responsibilities",
+"When taking Company equipment off Company premises, taking Company equipment off Company premises include situations where employees need to attend client meetings, conferences, or other business-related events outside of the office",
+"When taking Company equipment off Company premises, employees are expected to use the Company equipment responsibly and ensure its safekeeping",
+"When taking Company equipment off Company premises, Prior approval from the relevant supervisor or department head is required before taking any Company equipment off-site",
+"When taking Company equipment off Company premises, employees may be required to sign an agreement or adhere to specific guidelines regarding the use and protection of the equipment",
+]

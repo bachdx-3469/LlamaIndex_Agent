@@ -1,0 +1,81 @@
+STT,Question (English),Question (Vietnamese),Answer,Comment,Source
+1,What does the Remote Work (VPN) Security Pledge include?,Bản Cam kết Bảo mật trong quá trình làm việc từ xa (VPN) bao gồm nội dung nào?,"Employees commit to providing accurate information for the process in remote access.
+• Employees commit to ensuring the confidentiality of the information provided for the process of remote working 
+(accounts, password, log-in process..) and not to disclosing to unrelated people.
+• Employees commit to ensuring minimum requirements for remote working, remote access in order to ensure information 
+security on devices: 
+- Protect devices and access from malware. Install Anti Virus and enable Firewall for all operating systems (Windows, 
+MAC, Ubuntu);
+- Don't disable, remove or change VPN settings, security software such as encryption software, antivirus software, 
+firewall,...;
+- Comply with regulations on software installation and usage;
+- Comply with regulations on data storage and backup data on the system;                                                                                                      
+- Comply with Company Security Information procedures , also be responsible for implementing requirements when 
+requested;
+- Limit remote access in the public places or not being secure in terms of network security: cafe shop, internet shop...",,CONFIDENTIAL INFORMATION COMMITMENT IN REMOTE ACCESS (VPN)
+2,What should employees do if they see signs of computer instability?,Trong trường hợp thấy có dấu hiệu máy tính bất ổn nhân viên phải làm gì?,"In case you have report that the device shows signs of instability (virus infection....), disconnect from the network and notify IFU staff immediately",,CONFIDENTIAL INFORMATION COMMITMENT IN REMOTE ACCESS (VPN)
+3,Is remote access possible in public places?,Có thể truy cập từ xa ở nơi công cộng không?,"Remote access is possible in public places, but this is restricted.",,CONFIDENTIAL INFORMATION COMMITMENT IN REMOTE ACCESS (VPN)
+4,When are employees allowed to take Company equipment off Company premises?,Nhân viên được phép mang các thiết bị Công ty ra ngoài phạm vi Công ty khi nào?,"Employees are allowed with the right of using the corporate devices outside the company's area only when employees understand the content and complete  signing this confidentiality commitments: CONFIDENTIAL INFORMATION COMMITMENT 
+IN USING CORPORATE DEVICES OUTSIDE THE 
+COMPANY'S AREA",,CONFIDENTIAL INFORMATION COMMITMENT IN USING CORPORATE DEVICES OUTSIDE THE COMPANYS AREA
+5,What risky software is prohibited from installation?,Phần mềm rủi ro nào bị nghiêm cấm cài đặt?,"Employees commit to obeying the Company's Information Security Regulation
+Reference as following:
+- Install Anti Virus and enable Firewall for all operating systems (Windows, MAC, Ubuntu);
+- Prohibit installing and using software in the high-risk software category, including but not limited to the following groups of software:
+ + Software for remote machine control;
+ + Screen recording / capture software, reading service, file sharing, source code that has features stored on the Internet: Pastebin, Json Viewer, 
+Gyazo,...;
+ + Proxy software, OpenVPN software, HotspotShield software,... to bypass the Company's security system;
+ + Software for tracking and collecting unauthorized data: Keylogger,...;
+ + Virtual machine settings: Kali Linux, Backtrack,...; ",,CONFIDENTIAL INFORMATION COMMITMENT IN USING CORPORATE DEVICES OUTSIDE THE COMPANYS AREA
+6,"I lost my company provided device, what should I do now?","Tôi đánh mất thiết bị công ty cung cấp, giờ tôi phải làm gì?","In case that this personal device is stolen or lost, employees are responsible for informming to the responsible PSM/LM, IFU department and ISO secretariat.",,CONFIDENTIAL INFORMATION COMMITMENT IN USING CORPORATE DEVICES OUTSIDE THE COMPANYS AREA
+7,What is my liability for losing or damaging company equipment?,Trách nhiệm mà tôi phải chịu khi làm mất hoặc làm hỏng thiết bị của công ty?,"In case of breaking any commitment in this document, I will be fully responsible for resolving the consequence and accept any treatment in accordance with the curent law.",,CONFIDENTIAL INFORMATION COMMITMENT IN USING CORPORATE DEVICES OUTSIDE THE COMPANYS AREA
+8,"Suppose June 15 is the deadline for returning company equipment. However, on June 15, employee A is sick and cannot return the equipment until June 16. In this case, what should employee A do? And will they be held responsible?","Giả sử ngày 15/6 là ngày hết hạn được phép mang thiết bị ra ngoài công ty. Nhưng đúng vào ngày 15/6 nhân viên A bị ốm, và phải rời sang ngày 16/6 mới trao trả thiết bị cho công ty được. Trong trường hợp này nhân viên A phải làm gì? Và có phải chịu trách nghiệm gì không?",-,,CONFIDENTIAL INFORMATION COMMITMENT IN USING CORPORATE DEVICES OUTSIDE THE COMPANYS AREA
+9,"I'm a new employee, so the company hasn't provided equipment for me yet. Therefore, I've decided to use my personal devices for work. Is this in accordance with the regulations?","Tôi là nhân viên mới, nên công ty chưa cung cấp thiết bị cho tôi. Vậy nên tôi quyết định sử dụng thiết bị cá nhân cho công việc. Việc làm này có đúng quy định không?","Employees are allowed to bring personal devices, access the Company's internal network, or use them for work purposes (for testing purposes) when and only when they clearly understand the content and complete signing the confidentiality commitment: COMMITMENT TO CONFIDENTIALITY IN THE PROCESS OF USING PERSONAL DEVICES FOR WORK",,COMMITMENT TO CONFIDENTIALITY IN THE PROCESS OF USING PERSONAL DEVICES FOR WORK
+10,What should be followed when using personal devices for work?,Cần tuân thủ những gì khi sử dụng thiết bị cá nhân cho công việc?,"Employees commit to providing accurate information for the process of using personal devices and the process of connecting to 
+the company’s internal network.
+• Employees commit to ensuring the personal device is formatted before to connect to the company’s internal network in 
+accordance with the company’s issued Information Security regulations. 
+Refer to some of the following:
+- Install Anti Virus and enable Firewall for all operating systems (Windows, MAC, Ubuntu)
+- Prohibit installing and using software in the high-risk software category, including but not limited to the following groups of 
+software:
+ + Software for remote machine control;
+ + Screen recording / capture software, reading service, file sharing, source code that has features stored on the Internet: 
+Pastebin, Json Viewer, Gyazo,...;
+ + Proxy software, OpenVPN software, HotspotShield software,... to bypass the Company's security system;
+ + Software for tracking and collecting unauthorized data: Keylogger,...;
+ + Virtual machine settings: Kali Linux, Backtrack,...;                   
+- Prohibit attack that affects the Company's bandwidth (such as installing download accelerators software, shareware P2P,...);
+- Prohibit attack the system of the Company and users;
+- Don't use company's networks to self-broadcast wifi.",,COMMITMENT TO CONFIDENTIALITY IN THE PROCESS OF USING PERSONAL DEVICES FOR WORK
+11,"Part-time employee A uses a personal computer for work and has been approved by his superiors and completed the procedures to allow connection to the internal network. So, does employee A need to install Antivirus software?","Nhân viên part-time A sử dụng máy tính cá nhân để làm việc và đã được cấp trên phê duyệt cũng như hoàn thành các thủ tục cho phép kết nối mạng nội bộ. Như vậy, bạn A có cần cài đặt phần mềm Antivirus hay không?","Once the procedures have been completed and approved by superiors, it means that part-time employee A has committed to complying with the regulations within the procedures. In particular, installing Antivirus software is mandatory.",,COMMITMENT TO CONFIDENTIALITY IN THE PROCESS OF USING PERSONAL DEVICES FOR WORK
+12,Can I use a personal account during project testing?,Tôi có thể sử dụng tài khoản cá nhân trong quá trình test app không?,Prohibit using personal accounts during testing. All accounts used on the test app or for testing purposes must be mail accounts with the Company domain @sun-asterisk.com or @sun-asterisk.vn provided by the company;,,COMMITMENT TO CONFIDENTIALITY IN THE PROCESS OF USING PERSONAL DEVICES FOR WORK
+13,"During my work, I need to install some software according to company regulations. However, because the App Store is broken and cannot be accessed, I proceeded to install the software by downloading it via the Internet. Is this in accordance with regulations?","Trong quá trình làm việc, tôi cần thực hiện cài đặt một vài phần mềm theo quy định của công ty. Nhưng do app store bị lỗi không thể truy cập nên tôi tiến hành cài đặt phần mềm bằng cách download qua internet. Điều này có được phép không?",-,,COMMITMENT TO CONFIDENTIALITY IN THE PROCESS OF USING PERSONAL DEVICES FOR WORK
+14,"Due to work factors, I am required to use high-risk software. Am I allowed to install high-risk software? If yes, what steps do I need to take?",Do yếu tố công việc mà tôi bắt buộc phải sử dụng đến phần mềm rủi do cao. Vậy tôi có được phép cài đặt các phần mềm rủi do cao không? Nếu có thì cần làm gì?,"Employees are granted the right to install high-risk software in the Company according to the list issued with Commitment COMMITMENT FOR THE PROCESS OF INSTALLING, ACTING THE HIGH-RISK SOFTWARES/ UNPERMITTED BEHAVIOURS IN THE COMPANY(This list will be updated periodically) when and only when they fully understand the content and complete signing of this confidentiality commitment.",,"COMMITMENT FOR THE PROCESS OF INSTALLING, ACTING THE HIGH RISK SOFTWARES/ UNPERMITTED BEHAVIOURS IN THE COMPANY"
+15,"Due to work factors, I am required to use high-risk software. Am I allowed to install high-risk software?",Do yếu tố công việc mà tôi bắt buộc phải sử dụng đến phần mềm rủi do cao. Vậy tôi có được phép cài đặt các phần mềm rủi do cao không?,,,"COMMITMENT FOR THE PROCESS OF INSTALLING, ACTING THE HIGH RISK SOFTWARES/ UNPERMITTED BEHAVIOURS IN THE COMPANY"
+16,"I noticed that my computer was slow and kept freezing. So, I decided to reinstall my computer's operating system. Is this action in accordance with company policy?","Nhận thấy máy tính bị chậm, và có hiện tượng treo máy. Vậy nên tôi đã quyết định cài đặt lại hệ điều hành của máy tính. Hành động này của tôi có đúng quy định của công ty không?","Employees are unpermitted to reinstall, upgrade operating system or install other operating systems.",,"COMMITMENT FOR THE PROCESS OF INSTALLING, ACTING THE HIGH RISK SOFTWARES/ UNPERMITTED BEHAVIOURS IN THE COMPANY"
+17,What regulations must be followed when installing high-risk software?,Phải tuân thủ những quy định nào khi cài đặt phần mềm có rủi ro cao?,"I hereby commits to the content below:
+• Commit to taking full responsibilities for ensuring the term that indicated in the Information Security
+commitment signed on the first day of working in company;
+• Commit searching and understanding the risk and the impact of installing & using the software requested in this 
+commitment;
+• Commit to ensuring the safety of confidential information in the request devices; not to sharing any important 
+information on the Internet .
+• Commit to obeying the Company's Information Security Regulations: 
+Reference the following:
+- Employees using Windows OS, MAC OS, Ubuntu OS have to install Anti Virus and enable Firewall;
+-
+When using Company's computer/laptop or Personal devices which are permitted to connect local network, 
+employees are not allowed to disable, remove or change VPN setting
+and the settings of secure software such as encryption software: anti-virus software, firewalls...                                                                                                      
+- Employees are unpermitted to reinstall, upgrade operating system or install other operating systems.
+- Be careful on clicking unsecured links 
+(In case, the devices have the abnormal signal, employee must immediately disconnect and notify ITA's staff)
+• Commit to uninstalling the requested software immediately after the duration mentioned above expires;",,"COMMITMENT FOR THE PROCESS OF INSTALLING, ACTING THE HIGH RISK SOFTWARES/ UNPERMITTED BEHAVIOURS IN THE COMPANY"
+18,"Customer A comes to work at Sun-asterisk, and he has a friend who is an employee at Sun-asterisk Vietnam. They sit and chat, and Customer A discusses the project details, contract, and other related information about Sun-asterisk. What is Customer A violating by doing this? And what responsibilities do they need to bear?","Khách hàng A tới Sun-asterisk làm việc, anh ta có một người bạn là nhân viên của công ty Sun-asterisk Việt nam. Hai người ngồi trò chuyện với nhau và khách hàng A có kể về nội dung dự án, hợp đồng và một số thông tin khác liên quan tới công ty Sun-asterisk. Việc làm này của khách hàng A đang vi phạm điều gì? Và họ cần phải chịu những trách nghiệm như thế nào?","When customers come to Sun-asterisk to work. It is necessary to commit to keep confidential information of Sun Asterisk Vietnam Co., Ltd. confidential, not to disclose or allow any other individual or organization to obtain it directly or indirectly, unless there is written consent from Sun Asterisk Vietnam Co., Ltd. Therefore, in this case, Customer A has violated: CONFIDENTIAL INFORMATION COMMITMENT FOR CUSTOMERS WORKING IN SUN ASTERISK VIETNAM. In case of violation, the customer will have to compensate for all damages to Sun Asterisk Vietnam Co., Ltd., including but not limited to material losses, reputation, image, costs to remedy damages, litigation costs, and lawyers.",,CONFIDENTIAL INFORMATION COMMITMENT  FOR CUSTOMERS WORKING IN SUN ASTERISK VIET NAM
+19,"Since Sun-asterisk's office is very beautiful, the customer wants to ask if they can use their phone to record the workspace at Sun-asterisk.","Do công ty Sun-asterisk rất đẹp, nên khách hàng muốn hỏi rằng có thể sử dụng điện thoại để ghi hình lại không gian làm việc tại Sun-asterisk không?",Commit not to taking photos or filming in prohibited areas (server room  and working area) without Managers' permission;,,CONFIDENTIAL INFORMATION COMMITMENT  FOR CUSTOMERS WORKING IN SUN ASTERISK VIET NAM
+20,What information must customers keep confidential when working at Sun-asterisk?,Khách hàng cần tuân thủ giữ bảo mật những thông tin gì khi tới làm việc tại Sun-asterisk?,,,CONFIDENTIAL INFORMATION COMMITMENT  FOR CUSTOMERS WORKING IN SUN ASTERISK VIET NAM
+21,Can I use personal email for work?,Tôi có thể sử dụng email cá nhân cho công việc không?,"Employees commit to using accounts with Company Domain sun-asterisk.com, sun-asterisk.vn or group mail provided by the Company on working",,CONFIDENTIAL INFORMATION COMMITMENT IN USING ACCOUNT CREATED BY PERSONAL INFORMATION ON WORKING
+22,"Employee A and I are both working on project B. For some reason, employee A cannot use their email account. So, they decided to borrow my email account to access some files in the project. Is this allowed?",Tôi và nhân viên A đều trong một dự án B. Vì lý do nào đó mà nhân viên A không thể sử dụng tài khoản email của họ được. Nên họ đã quyết định mượn tài khoản mail của tôi để truy cập một số file trong dự án. Việc làm này có được phép hay không?,-,,CONFIDENTIAL INFORMATION COMMITMENT IN USING ACCOUNT CREATED BY PERSONAL INFORMATION ON WORKING
+23,Can I use my company email to register for an account to watch movies online?,Tôi có thể sử dụng mail công ty để đăng ký tài khoản xem phim trực tuyến không?,Sun-asterisk company issued accounts are for work purposes only. Using company email accounts for purposes other than work is not allowed.,,CONFIDENTIAL INFORMATION COMMITMENT IN USING ACCOUNT CREATED BY PERSONAL INFORMATION ON WORKING

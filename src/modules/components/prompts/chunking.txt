@@ -1,0 +1,68 @@
+Decompose the "Content" into clear and simple propositions, ensuring they are interpretable out of context.
+1. Split compound sentence into simple sentences. Maintain the original phrasing from the input whenever possible.
+2. Should ALWAYS start with "When" follows by Title if possible
+2. For any named entity that is accompanied by additional descriptive information, separate this information into its own distinct proposition.
+3. For any List or Sublist, ALWAYS add the List heading
+4. Decontextualize the proposition by adding necessary modifier to nouns or entire sentences and replacing pronouns (e.g., "it", "he", "she", "they", "this", "that") with the full name of the entities they refer to.
+5. Present the results as a list of strings, formatted in JSON.
+
+Example:
+
+Input:
+Title: CONFIDENTIAL INFORMATION COMMITMENT IN USING ACCOUNT CREATED BY PERSONAL INFORMATION ON WORKING
+Content:
+DURING USING ACCOUNT CREATED BY PERSONAL INFO DUE TO THE SPECIFICITY OF THE WORK
+Employees commit to using accounts with Company Domain sun-asterisk.com, sun-asterisk.vn  or group mail provided by the Company on working.
+In case employees/ projects can not use accounts with Company domain for logging/ registering for work purpose, employsee are just allowed to use
+accounts created by personal info only if clearly understand and sign the commitment to confirm the responsibilities and obligations.
+I hereby commit and undertake the contents below:
+DURING USING ACCOUNT CREATED BY PERSONAL INFO DUE TO THE SPECIFICITY OF THE WORK
+ • Employees commit to ensuring the confidentiality of project information/internal information. Do not disclose confidential information through personal
+accounts
+• Confidential information: Including but not limited to the following information:
+- Information about the methods, action plans, development directions and business strategies of  the Company
+- Information about cooperation programs, training programs, sponsorship programs and other activities that the Company has been and will be
+implementing;
+- Information about or related to partners and customers who have been and establish relationships with the Company, and potential partners and
+customers of the Company;
+- Other information obtained during working from any source related to the Company's activities and relationships with its partners and customers;
+- Information about licenses, projects, contracts, including contract content and attached appendices;
+- Information related to internal situation, finances, and personnel of the Company
+- Email, login accounts (ID/user), passwords, account to access the platform for work are provided by the Company and use for work purposes only
+or other purposes as requested/indicated by the Company;
+- Phone numbers are provided by the Company and use for business purposes only or other purposes as requested/indicated by the Company;
+- Informations that the Company is responsible for keeping confidential according to agreements, commitments or legal regulations with relevant
+parties;
+- Other information notified or regulated by the Company as confidential Information in any form or understood as confidential Information
+according to common understanding;
+- This confidential information is dispayed or saved in any form, including the following formats: documents, files, emails, images, software
+codes... confidential information is understood and implemented according to current regulations of Vietnamese law and international practices (in
+cases where Vietnamese law does not have regulations).
+• Employees commit to ensuring that devices using personal accounts to login regulatory compliance with software installation regulations.
+- Note: Be careful not to click on links with malwares..
+• In case of breaking any commitment in this document, I will be fully responsible for resolving the consequence and accept any treatment in accordance
+with the current law.
+• This commitment is signed once time and valid during the period when employees are working and using personal devices to access to the local
+network in the Company.
+Output:
+[
+"When using account created by personal information on working, Employees commit to using accounts with Company Domain sun-asterisk.com, sun-asterisk.vn or group mail provided by the Company on working",
+"When using account created by personal information on working, in case can't use account with Company domains, employees can use account created by personal info",
+"When using account created by personal information on working, employee must  clearly understand and sign the commitment to confirm the responsibilities and obligations",
+"When using account created by personal information on working, employee must ensure the confidentiality of project information/internal information",
+"When using account created by personal information on working, employee must not disclose confidential information through personal accounts",
+"When using account created by personal information on working, the confidential information: Including but not limited to the following information: Information about the methods, action plans, development directions and business strategies of  the Company",
+"When using account created by personal information on working, the confidential information: Including but not limited to the following information: Information about cooperation programs, training programs, sponsorship programs and other activities that the Company has been and will be implementing",
+"When using account created by personal information on working, the confidential information: Including but not limited to the following information: Information about or related to partners and customers who have been and establish relationships with the Company, and potential partners and customers of the Company"
+"When using account created by personal information on working, the confidential information: Including but not limited to the following information: Other information obtained during working from any source related to the Company's activities and relationships with its partners and customers",
+"When using account created by personal information on working, the confidential information: Including but not limited to the following information: Information about licenses, projects, contracts, including contract content and attached appendices",
+"When using account created by personal information on working, the confidential information: Including but not limited to the following information: Information related to internal situation, finances, and personnel of the Company",
+"When using account created by personal information on working, the confidential information: Including but not limited to the following information: Email, login accounts (ID/user), passwords, account to access the platform for work are provided by the Company and use for work purposes only or other purposes as requested/indicated by the Company",
+"When using account created by personal information on working, the confidential information: Including but not limited to the following information: Phone numbers are provided by the Company and use for business purposes only or other purposes as requested/indicated by the Company",
+"When using account created by personal information on working, the confidential information: Including but not limited to the following information: Informations that the Company is responsible for keeping confidential according to agreements, commitments or legal regulations with relevant parties",
+"When using account created by personal information on working, the confidential information: Including but not limited to the following information: Other information notified or regulated by the Company as confidential Information in any form or understood as confidential Information according to common understanding",
+"When using account created by personal information on working, the confidential information: Including but not limited to the following information: This confidential information is dispayed or saved in any form, including the following formats: documents, files, emails, images, software codes... confidential information is understood and implemented according to current regilations of Vietnamese law and international practices (in cases where Vietnamese law does not have regulations)",
+"When using account created by personal information on working, employee must ensure that devices using personal accounts to login regulatory compliance with software installation regulations",
+"When using account created by personal information on working, employee must be careful not to click on links with malware",
+"In case of breaking any commitment in CONFIDENTIAL INFORMATION COMMITMENT IN USING ACCOUNT CREATED BY PERSONAL INFORMATION ON WORKING, employee will be fully responsible for resolving the consequence and accept any treatment in accordance with the curent law."
+]
