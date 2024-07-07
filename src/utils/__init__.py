@@ -27,5 +27,5 @@ def initialize(dotenv_path: str):
     load_dotenv(dotenv_path)
     settings = load_settings()
 
-    # setup_tracing(settings)
+    setup_tracing(settings)
     setup_modules(settings)

@@ -1,0 +1,56 @@
+[1;3;38;5;200mThought: I need to use a tool to help me retrieve information related to the query.
+Action: react_retriever_tool
+Action Input: {'input': '{query}'}
+[0m[1;3;34mObservation: name = COMMITMENT TO CONFIDENTIALITY IN THE PROCESS OF USING PERSONAL DEVICES FOR WORK.pdf
+category = Sun*
+DURING USING AND ACCESSING PERSONAL DEVICES AND ACCESSING THE COMPANY'S INTERNAL NETWORK:
++ Screen recording / capture software, reading service, file sharing, source code that has features stored on the Internet: Pastebin, Json Viewer, Gyazo,; + Proxy software, OpenVPN software, HotspotShield software, to bypass the Company's security system; + Software for tracking and collecting unauthorized data: Keylogger,; + Virtual machine settings: Kali Linux, Backtrack,;
+
+name = CONFIDENTIAL INFORMATION COMMITMENT IN REMOTE ACCESS (VPN).pdf
+category = Sun*
+Project name:
+
+name = COMMITMENT TO CONFIDENTIALITY IN THE PROCESS OF USING PERSONAL DEVICES FOR WORK.pdf
+category = Sun*
+DURING USING AND ACCESSING PERSONAL DEVICES AND ACCESSING THE COMPANY'S INTERNAL NETWORK:
+(Signature and full name)
+
+name = CONFIDENTIAL INFORMATION COMMITMENT IN USING CORPORATE DEVICES OUTSIDE THE COMPANYS AREA.pdf
+category = Sun*
+Reason: > DURING USING CORPORATE DEVICES OUTSIDE THE COMPANY'S AREA:
+Prohibit installing and using software in the high-risk software category, including but not limited to the following groups of software: + Software for remote machine control; + Screen recording / capture software, reading service, file sharing, source code that has features stored on the Internet: Pastebin, Json Viewer, Gyazo,; + Proxy software, OpenVPN software, HotspotShield software, to bypass the Company's security system; + Software for tracking and collecting unauthorized data: Keylogger,; + Virtual machine settings: Kali Linux, Backtrack,;
+
+name = CONFIDENTIAL INFORMATION COMMITMENT IN USING ACCOUNT CREATED BY PERSONAL INFORMATION ON WORKING.pdf
+category = Sun*
+CONFIDENTIAL INFORMATION COMMITMENT IN USING ACCOUNT CREATED BY PERSONAL INFORMATION ON WORKING > System/Service/Tool name:
+Account information:
+
+name = CONFIDENTIAL INFORMATION COMMITMENT IN REMOTE ACCESS (VPN).pdf
+category = Sun*
+DURING WORKING, REMOTE ACCESS (VPN)
+In case you have report that the device shows signs of instability (virus infection), disconnect from the network and notify IFU staff immediately.
+
+name = CONFIDENTIAL INFORMATION COMMITMENT IN USING ACCOUNT CREATED BY PERSONAL INFORMATION ON WORKING.pdf
+category = Sun*
+Employee
+(Signature and full name)
+
+name = CONFIDENTIAL INFORMATION COMMITMENT IN REMOTE ACCESS (VPN).pdf
+category = Sun*
+DURING WORKING, REMOTE ACCESS (VPN)
+(Signature and full name)
+
+name = COMMITMENT TO CONFIDENTIALITY IN THE PROCESS OF USING PERSONAL DEVICES FOR WORK.pdf
+category = Sun*
+DURING USING AND ACCESSING PERSONAL DEVICES AND ACCESSING THE COMPANY'S INTERNAL NETWORK:
+Employees pay attention to clicking on links that are no assurance.
+
+name = COMMITMENT TO CONFIDENTIALITY IN THE PROCESS OF USING PERSONAL DEVICES FOR WORK.pdf
+category = Sun*
+DURING USING AND ACCESSING PERSONAL DEVICES AND ACCESSING THE COMPANY'S INTERNAL NETWORK:
+Ha Noi / Da Nang/ Ho Chi Minh, day month year Employee
+
+
+[0m[1;3;38;5;200mThought: I have a lot of information related to the query. I need to filter and choose the important information.
+Answer: Based on the retrieved information, it seems to be a collection of documents related to the commitment to confidentiality in various scenarios. The documents mention the use of personal devices for work, remote access (VPN), and using corporate devices outside the company's area. They also mention prohibited software and actions such as screen recording, proxy software, keyloggers, and virtual machine settings. The documents include signatures and full names of employees, as well as locations and dates.
+[0mBased on the retrieved information, it seems to be a collection of documents related to the commitment to confidentiality in various scenarios. The documents mention the use of personal devices for work, remote access (VPN), and using corporate devices outside the company's area. They also mention prohibited software and actions such as screen recording, proxy software, keyloggers, and virtual machine settings. The documents include signatures and full names of employees, as well as locations and dates.

@@ -1,18 +1,1 @@
-Generated response based on the retrieved documents: name = COMMITMENT FOR THE PROCESS OF INSTALLING, ACTING THE HIGH RISK SOFTWARES_ UNPERMITTED BEHAVIOURS IN THE COMPANY .pdf
-category = Sun*
-When using Company's computer/laptop or Personal devices which are permitted to connect local network, employees are not allowed to disable, remove or change VPN setting and the settings of secure software such as encryption software: anti-virus software, firewalls - Employees are unpermitted to reinstall, upgrade operating system or install other operating systems.
-
-name = COMMITMENT FOR THE PROCESS OF INSTALLING, ACTING THE HIGH RISK SOFTWARES_ UNPERMITTED BEHAVIOURS IN THE COMPANY .pdf
-category = Sun*
-- Employees using Windows OS, MAC OS, Ubuntu OS have to install Anti Virus and enable Firewall;
-
-
-Generated response based on the retrieved documents: name = COMMITMENT FOR THE PROCESS OF INSTALLING, ACTING THE HIGH RISK SOFTWARES_ UNPERMITTED BEHAVIOURS IN THE COMPANY .pdf
-category = Sun*
-When using Company's computer/laptop or Personal devices which are permitted to connect local network, employees are not allowed to disable, remove or change VPN setting and the settings of secure software such as encryption software: anti-virus software, firewalls - Employees are unpermitted to reinstall, upgrade operating system or install other operating systems.
-
-name = COMMITMENT FOR THE PROCESS OF INSTALLING, ACTING THE HIGH RISK SOFTWARES_ UNPERMITTED BEHAVIOURS IN THE COMPANY .pdf
-category = Sun*
-- Employees using Windows OS, MAC OS, Ubuntu OS have to install Anti Virus and enable Firewall;
-
-
+Employees must install Anti Virus and enable Firewall when installing high risk software.
